@@ -15,6 +15,7 @@ sh dolphin-emu.sh   # THE emulator for GC and Wii
 sh chromium.sh      # Browser of choice for debugging/testing
 sh firefox.sh       # Incase it is not already installed. Browser of choice for coding things
 sh gimp.sh          # Picture editing
+sh github-cli.sh    # Add github cli so that I can login :)
 sh gitleaks.sh      # Finds secrets in codebase
 sh go.sh            # Go programming language
 sh godot.sh         # Open Source game development engine
