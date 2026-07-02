@@ -1,1 +1,1 @@
-sudo pacman -S --noconfirm retroarch
+sudo pacman -S --noconfirm --needed retroarch

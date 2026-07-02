@@ -1,1 +1,1 @@
-sudo pacman -S --noconfirm kubectl
+sudo pacman -S --noconfirm --needed kubectl

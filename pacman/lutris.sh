@@ -1,1 +1,1 @@
-sudo pacman -S --noconfirm lutris
+sudo pacman -S --noconfirm --needed lutris

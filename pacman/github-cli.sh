@@ -1,1 +1,1 @@
-sudo pacman -S --noconfirm github-cli
+sudo pacman -S --noconfirm --needed github-cli

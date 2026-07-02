@@ -1,1 +1,1 @@
-sudo pacman -S --noconfirm kotlin
+sudo pacman -S --noconfirm --needed kotlin

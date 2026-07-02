@@ -1,1 +1,1 @@
-sudo pacman -S --noconfirm gparted
+sudo pacman -S --noconfirm --needed gparted

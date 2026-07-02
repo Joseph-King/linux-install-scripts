@@ -1,1 +1,1 @@
-sudo pacman -S --noconfirm alacritty
+sudo pacman -S --noconfirm --needed alacritty

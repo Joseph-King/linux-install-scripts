@@ -1,1 +1,1 @@
-sudo pacman -S --noconfirm openrgb
+sudo pacman -S --noconfirm --needed openrgb

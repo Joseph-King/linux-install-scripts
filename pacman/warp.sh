@@ -1,1 +1,1 @@
-sudo pacman -S --noconfirm warp
+sudo pacman -S --noconfirm --needed warp

@@ -1,1 +1,1 @@
-sudo pacman -S --noconfirm steam
+sudo pacman -S --noconfirm --needed steam

@@ -1,1 +1,1 @@
-sudo pacman -S --noconfirm podman podman-desktop podman-compose
+sudo pacman -S --noconfirm --needed podman podman-desktop podman-compose

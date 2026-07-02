@@ -1,1 +1,1 @@
-yay -S --noconfirm rustdesk-bin
+yay -S --noconfirm --needed rustdesk-bin

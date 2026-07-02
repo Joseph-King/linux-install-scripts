@@ -1,1 +1,1 @@
-sudo pacman -S --noconfirm sunshine
+sudo pacman -S --noconfirm --needed sunshine

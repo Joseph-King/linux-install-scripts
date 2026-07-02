@@ -1,1 +1,1 @@
-sudo pacman -S --noconfirm openmw
+sudo pacman -S --noconfirm --needed openmw

@@ -1,1 +1,1 @@
-yay -S --noconfirm heroic-games-launcher-bin
+yay -S --noconfirm --needed heroic-games-launcher-bin

@@ -1,1 +1,1 @@
-sudo pacman -S --noconfirm openssl
+sudo pacman -S --noconfirm --needed openssl

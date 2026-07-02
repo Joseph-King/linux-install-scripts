@@ -1,1 +1,1 @@
-sudo pacman -S --noconfirm kompose
+sudo pacman -S --noconfirm --needed kompose

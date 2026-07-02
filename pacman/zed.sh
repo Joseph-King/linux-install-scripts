@@ -1,1 +1,1 @@
-sudo pacman -S --noconfirm zed
+sudo pacman -S --noconfirm --needed zed

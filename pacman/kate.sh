@@ -1,1 +1,1 @@
-sudo pacman -S --noconfirm kate
+sudo pacman -S --noconfirm --needed kate

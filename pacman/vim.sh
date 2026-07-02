@@ -1,1 +1,1 @@
-sudo pacman -S --noconfirm vim
+sudo pacman -S --noconfirm --needed vim

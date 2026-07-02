@@ -1,1 +1,1 @@
-sudo pacman -S --noconfirm cockpit
+sudo pacman -S --noconfirm --needed cockpit

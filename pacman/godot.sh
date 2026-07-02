@@ -1,1 +1,1 @@
-sudo pacman -S --noconfirm godot
+sudo pacman -S --noconfirm --needed godot

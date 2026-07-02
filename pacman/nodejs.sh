@@ -1,1 +1,1 @@
-sudo pacman -S --noconfirm nodejs
+sudo pacman -S --noconfirm --needed nodejs

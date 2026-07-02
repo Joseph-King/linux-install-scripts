@@ -1,1 +1,1 @@
-sudo pacman -S --noconfirm discord
+sudo pacman -S --noconfirm --needed discord

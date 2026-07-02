@@ -1,1 +1,1 @@
-sudo pacman -S --noconfirm vscodium
+sudo pacman -S --noconfirm --needed vscodium

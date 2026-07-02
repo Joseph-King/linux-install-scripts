@@ -1,1 +1,1 @@
-sudo pacman -S --noconfirm openssh
+sudo pacman -S --noconfirm --needed openssh

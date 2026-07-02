@@ -1,1 +1,1 @@
-sudo pacman -S --noconfirm chromium
+sudo pacman -S --noconfirm --needed chromium

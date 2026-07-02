@@ -1,1 +1,1 @@
-sudo pacman -S --noconfirm gitleaks
+sudo pacman -S --noconfirm --needed gitleaks

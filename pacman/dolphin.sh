@@ -1,1 +1,1 @@
-sudo pacman -S --noconfirm dolphin
+sudo pacman -S --noconfirm --needed dolphin

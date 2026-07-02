@@ -1,3 +1,3 @@
-sudo pacman -S --noconfirm virtualbox
+sudo pacman -S --noconfirm --needed virtualbox
 
 sudo usermod -aG vboxusers $USER

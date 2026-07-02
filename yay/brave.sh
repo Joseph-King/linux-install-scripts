@@ -1,1 +1,1 @@
-yay -S --noconfirm brave-bin
+yay -S --noconfirm --needed brave-bin

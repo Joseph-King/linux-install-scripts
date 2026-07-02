@@ -1,1 +1,1 @@
-sudo pacman -S --noconfirm aws-cli
+sudo pacman -S --noconfirm --needed aws-cli

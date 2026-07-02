@@ -1,1 +1,1 @@
-sudo pacman -S --noconfirm mise
+sudo pacman -S --noconfirm --needed mise

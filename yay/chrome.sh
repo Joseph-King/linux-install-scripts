@@ -1,1 +1,1 @@
-yay -S --noconfirm google-chrome
+yay -S --noconfirm --needed google-chrome

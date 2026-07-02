@@ -1,1 +1,1 @@
-sudo pacman -S --noconfirm protonup-qt
+sudo pacman -S --noconfirm --needed protonup-qt

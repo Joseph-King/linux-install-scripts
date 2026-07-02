@@ -1,1 +1,1 @@
-sudo pacman -S --noconfirm navi
+sudo pacman -S --noconfirm --needed navi

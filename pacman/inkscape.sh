@@ -1,1 +1,1 @@
-sudo pacman -S --noconfirm inkscape
+sudo pacman -S --noconfirm --needed inkscape

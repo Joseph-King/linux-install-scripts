@@ -1,1 +1,1 @@
-sudo pacman -S --noconfirm lua
+sudo pacman -S --noconfirm --needed lua

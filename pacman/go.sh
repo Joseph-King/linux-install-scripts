@@ -1,1 +1,1 @@
-sudo pacman -S --noconfirm go
+sudo pacman -S --noconfirm --needed go

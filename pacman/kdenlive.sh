@@ -1,1 +1,1 @@
-sudo pacman -S --noconfirm kdenlive
+sudo pacman -S --noconfirm --needed kdenlive

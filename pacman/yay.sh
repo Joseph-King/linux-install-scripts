@@ -1,1 +1,1 @@
-sudo pacman -S --noconfirm yay
+sudo pacman -S --noconfirm --needed yay

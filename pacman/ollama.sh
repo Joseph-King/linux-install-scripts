@@ -6,17 +6,17 @@ GPU=$(lspci -v | grep -A 12 -i "VGA\|3D")
 
 if echo "$GPU" | grep -iq "nvidia"; then
     echo "Nvidia GPU detected"
-    sudo pacman -S --noconfirm --needed ollama-cuda
+    sudo pacman -S --noconfirm --needed --needed ollama-cuda
 
     VRAM=$(nvidia-smi --query-gpu=memory.total --format=csv,noheader,nounits | awk '{print int($1/1024)}')
 elif echo "$GPU" | grep -iq "amd"; then
     echo "AMD GPU detected"
-    sudo pacman -S --noconfirm --needed ollama-rocm
+    sudo pacman -S --noconfirm --needed --needed ollama-rocm
 
     BYTES=$(cat /sys/class/drm/card*/device/mem_info_vram_total)
     VRAM=$(( BYTES / 1024 / 1024 / 1024 ))
 elif echo "$GPU" | grep -iq "intel"; then
-    sudo pacman -S --noconfirm --needed ollama-vulkan
+    sudo pacman -S --noconfirm --needed --needed ollama-vulkan
 
     if [ -f /sys/class/drm/card0/device/lmem_total_bytes ]; then
         echo "Intel Discrete GPU detected"
@@ -32,7 +32,7 @@ elif echo "$GPU" | grep -iq "intel"; then
     fi
 else
     echo "No AI supported GPU detected"
-    sudo pacman -S --noconfirm --needed ollama
+    sudo pacman -S --noconfirm --needed --needed ollama
 
     VRAM=0
 fi

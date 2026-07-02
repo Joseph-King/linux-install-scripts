@@ -1,1 +1,1 @@
-sudo pacman -S --noconfirm uv
+sudo pacman -S --noconfirm --needed uv

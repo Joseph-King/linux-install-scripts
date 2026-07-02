@@ -1,1 +1,1 @@
-yay -S --noconfirm xone-dkms xone-dongle-firmware
+yay -S --noconfirm --needed xone-dkms xone-dongle-firmware

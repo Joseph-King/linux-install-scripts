@@ -1,1 +1,1 @@
-sudo pacman -S --noconfirm waydroid
+sudo pacman -S --noconfirm --needed waydroid

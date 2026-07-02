@@ -1,4 +1,4 @@
-sudo pacman -S --noconfirm docker docker-compose docker-buildx
+sudo pacman -S --noconfirm --needed docker docker-compose docker-buildx
 
 sudo systemctl enable --now docker.service
 sudo usermod -aG docker $USER

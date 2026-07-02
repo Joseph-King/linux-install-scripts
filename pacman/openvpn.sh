@@ -1,1 +1,1 @@
-sudo pacman -S --noconfirm openvpn
+sudo pacman -S --noconfirm --needed openvpn

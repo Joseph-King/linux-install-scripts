@@ -1,1 +1,1 @@
-sudo pacman -S --noconfirm minikube
+sudo pacman -S --noconfirm --needed minikube

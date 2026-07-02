@@ -1,1 +1,1 @@
-sudo pacman -S --noconfirm dolphin-emu
+sudo pacman -S --noconfirm --needed dolphin-emu
