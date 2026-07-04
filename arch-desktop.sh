@@ -61,6 +61,7 @@ cd ../yay
 sh brave.sh         # Browser of choice for gaming things
 sh chrome.sh        # Browser of choice for work things
 sh heroic.sh        # Games through GoG, Epic, and Amazon
+sh prek.sh          # Pre commit
 sh rust-desk.sh     # Remote desktop software
 sh xone.sh          # Xbox dongle driver
 
