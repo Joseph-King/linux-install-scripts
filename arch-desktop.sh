@@ -8,11 +8,10 @@ sudo pacman -Syu
 cd pacman
 sh alacritty.sh     # Terminal
 sh aws-cli.sh       # Connecting to AWS cloud from terminal
+sh chromium.sh      # Browser of choice for debugging/testing
 sh discord.sh       # Talking to friends
 sh docker.sh        # Container things. I use primarily for local development
-sh dolphin.sh       # NOT the emulator. File explorer
 sh dolphin-emu.sh   # THE emulator for GC and Wii
-sh chromium.sh      # Browser of choice for debugging/testing
 sh firefox.sh       # Incase it is not already installed. Browser of choice for coding things
 sh gimp.sh          # Picture editing
 sh github-cli.sh    # Add github cli so that I can login :)
